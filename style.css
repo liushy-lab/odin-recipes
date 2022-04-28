@@ -1,9 +1,24 @@
 #main {
-
+    color:;
+    font-family:;
+    font-size:;
+    font-align: center;
 }
+
 .title {
-
+    font-family:;
+    font-size:;
 }
-h2 {
 
+.desc {
+    font-weight:;
+}
+.def {
+    font-family:;
+    font-size:
+}
+
+.recipe {
+    color:;
+    background-color:;
 }
