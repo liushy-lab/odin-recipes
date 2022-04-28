@@ -6,16 +6,13 @@
 }
 
 .title {
-    font-family:;
-    font-size:;
+    font-family: monospace;
+    font-size: 22px;
 }
 
-.desc {
-    font-weight:;
-}
 .def {
-    font-family:;
-    font-size:
+    font-family: "Helvetica", sans-serif;
+    font-size: 16px;
 }
 
 .recipe {
