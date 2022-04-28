@@ -9,6 +9,10 @@
     font-family:;
     font-size:;
 }
+img {
+    height: 500px;
+    weight: auto;
+}
 
 .desc {
     font-weight:;
